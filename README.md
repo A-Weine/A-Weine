@@ -4,7 +4,7 @@
 ### Formação Acadêmica
 
 - **IFRN**: Técnico em Informática
-- **UFERSA**: Ciências da Computação (Em andamento)
+- **UFERSA**: Ciência da Computação (Em andamento)
 
 ### Tecnologias
 
