@@ -22,8 +22,6 @@
 
 </br>
 
-![Weine GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Weine&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ebe134)
-
 <div>
     <img align="center" alt="LuffyGif" src="https://media.tenor.com/EkWs1SDYtsQAAAAM/one-piece-luffy.gif" width="465" border="1px">
 </div>
